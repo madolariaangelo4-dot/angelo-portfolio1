@@ -1,0 +1,171 @@
+{
+  "name": "Angelo Madolaria",
+  "title": "4th-Year BSIT Student | Aspiring IT Support/ IT Support Specialist",
+  "intro": "Building practical digital solutions through programming, design, and continuous learning.",
+  "location": "Maramag, Bukidnon",
+  "phone": "09658398572",
+  "email": "madolariaangelo4@gmail.com",
+  "facebook": "https://www.facebook.com/share/1KPi6Yt7HD/",
+  "github": "https://github.com/angelomadolaria3-stack",
+  "avatar": "avatar.png",
+  "resume": "resume.pdf",
+  "about": "I am a 4th-year Bachelor of Science in Information Technology (BSIT) student who enjoy and can apply my knowledge and skills in programming, digital design, and developing practical technology solutions. I like turning ideas into working projects, learning new tools, and collaborating with others to solve problems.",
+  "tech": [
+    {
+      "title": "Programming Languages",
+      "items": [
+        "HTML/CSS",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "Java",
+        "C# (academic projects)"
+      ]
+    },
+    {
+      "title": "Frameworks & Tools",
+      "items": [
+        "Flutter",
+        "Git & GitHub",
+        "Visual Studio / Eclipse",
+        "ESP32 / IoT basics"
+      ]
+    },
+    {
+      "title": "Database & Services",
+      "items": [
+        "MySQL",
+        "Firebase",
+        "PHPMyAdmin"
+      ]
+    },
+    {
+      "title": "Design & Productivity",
+      "items": [
+        "Responsive web design",
+        "UI layout",
+        "Digital editing",
+        "Documentation"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "items": [
+        "HTML & CSS",
+        "JavaScript",
+        "PHP fundamentals",
+        "Responsive layouts"
+      ]
+    },
+    {
+      "title": "Programming",
+      "items": [
+        "Python",
+        "Java",
+        "C# in academic projects",
+        "Problem solving"
+      ]
+    },
+    {
+      "title": "AI & Mobile App",
+      "items": [
+        "Flutter app development",
+        "Glide app development",
+        "PAL AI project"
+        
+      ]
+    },
+    {
+      "title": "Tools & Collaboration",
+      "items": [
+        "Git and GitHub",
+        "Debugging and testing",
+        "Documentation",
+        "Team collaboration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "GreenWifi — Bottle Recycling Incentive System",
+      "symbol": "GreenWifi ♻",
+      "description": "A capstone project that aims to reward eligible plastic-bottle recycling with internet access, connecting an ESP32-controlled mechanism, sensor-based validation, and a MikroTik hotspot workflow.",
+      "technologies": [
+        "ESP32",
+        "HTML/CSS/JavaScript",
+        "MikroTik",
+        "IoT"
+      ],
+      "github": "",
+      "demo": "",
+      "video": "greenwifi-videoclip.mp4",
+      "videoLabel": "GreenWifi Project Development Video",
+      "poster": ""
+    },
+    {
+      "name": "PAL AI — AI Mobile Assistant",
+      "symbol": "PAL AI ✦",
+      "description": "A conversational AI assistant mobile-app project. Update this summary to describe the features you have implemented, such as chat, voice replies, settings, or AI provider integration.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "AI integration "
+      ],
+      "github": "",
+      "demo": "https://certain-pal-learn-flow.base44.app/"
+    },
+    {
+      "name": "Personal Digital Portfolio",
+      "symbol": "PORTFOLIO ↗",
+      "description": "A responsive website presenting my background, technical skills, academic projects, and contact details.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "GitHub Pages"
+      ],
+      "github": "",
+      "demo": "https://madolariaangelo4-dot.github.io/angelo-portfolio/"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Academic Software Projects — Java / Python",
+      "years": "COURSEWORK",
+      "description": "Worked on academic application concepts such as a student grading system, point-of-sale (POS) system and Capstone project."
+    },
+    {
+      "role": "GreenWifi Capstone Project",
+      "years": "CAPSTONE PROJECT",
+      "description": "Developing a bottle-recycling incentive system combining sensor-based validation, embedded hardware, and controlled internet access."
+    },
+    {
+      "role": "Hardware Integration and Troubleshooting",
+      "years": "TECHNICAL PRACTICE",
+      "description": "Worked on microcontroller-based hardware integration by connecting electronic components, checking circuit wiring, and troubleshooting connection issues. Practiced identifying wiring errors and verifying hardware connections as part of prototype development for the GreenWifi capstone project."
+    },
+    {
+      "role": "Software Testing and Debugging",
+      "years": "ACADEMIC EXPERIENCE",
+      "description": "Performed software testing and debugging on academic and personal projects to identify errors, verify system functionality, and improve application reliability. Practiced troubleshooting code, checking system features, and correcting issues to ensure that applications work as expected."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Information Technology (BSIT)",
+      "place": "Torres Capitol College Inc.",
+      "year": "4th Year Students"
+    }
+  ],
+  "achievements": [
+    "Successfully defended Capstone Project / Thesis Proposal with positive feedback from the panel.",
+    "BSIT SEMINAR-WORKSHOP 2026 held on April 29, 2026 at Torres Capitol College Inc.",
+    "SIPP Two-Day Pre-Internship Orientation and Training. held on September 29-30, 2026 at Torres Capitol College Inc.",
+    "BSIT DEPARTMENTAL INTERVIEW 2026 held on October 6, 2026 at Torres Capitol College Inc.",
+    " Consistent Dean’s Lister / Honor Roll for academic excellence."
+
+    
+  ]
+}
